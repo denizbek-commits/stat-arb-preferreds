@@ -1,0 +1,28 @@
+PAIR TRADING SIGNALS (SORTED BY SCORE)
+============================================================
+
+PFF & PGF pair reached Max level.
+Risk = 0.65, Reward = 3.70
+Correlation: 0.92
+Z-Score: 1.51
+Mean-Reversion Prob.: 49.6%
+Total Score: 4.85
+
+PFF & PGX pair reached Max level.
+Risk = 0.73, Reward = 4.04
+Correlation: 0.92
+Z-Score: 1.40
+Mean-Reversion Prob.: 53.4%
+Total Score: 4.84
+
+
+============================================================
+POSITION SUMMARY
+============================================================
+
+LONGS:
+PGF (1)
+PGX (1)
+
+SHORTS:
+PFF (2)
